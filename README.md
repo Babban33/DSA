@@ -2,3 +2,4 @@
 - [x] Binary Search
 - [x] Reverce Array
 - [x] Printing Pairs
+- [x] Subarray
