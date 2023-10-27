@@ -3,3 +3,4 @@
 - [x] Reverce Array
 - [x] Printing Pairs
 - [x] Subarray
+- [x] Subarray Sum using Prefix
