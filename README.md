@@ -1,4 +1,4 @@
-- [x] Linear Search
+- [x] [Linear Search] (./Searching/linearSearch.cpp)
 - [x] Binary Search
 - [x] Reverce Array
 - [x] Printing Pairs
