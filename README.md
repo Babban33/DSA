@@ -4,3 +4,4 @@
 - [x] Printing Pairs
 - [x] Subarray
 - [x] Subarray Sum using Prefix
+- [x] Lower Bound of Array
